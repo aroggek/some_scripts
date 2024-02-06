@@ -1,8 +1,5 @@
 #!/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Script to automate blind SQL injection on MySQL database (SQL Injection Lab 20220621
-"""
 
 import requests
 import string 
